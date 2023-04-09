@@ -22,5 +22,6 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ayeshasiddiqs&count_private=true&theme=tokyonight&showicons=true)]()
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=ayeshasiddiqs&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=ayeshasiddiqs&theme=light&hide_border=false&include_all_commits=true&count_private=true)&nbsp;
+<a href="https://github.com/ayeshasiddiqs/github-contributor-stats">![Ayesha's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=ayeshasiddiqs&combine_all_yearly_contributions=true)</a>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayeshasiddiqs&theme=light&hide_border=false)<br/>
