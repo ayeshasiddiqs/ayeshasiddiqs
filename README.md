@@ -7,7 +7,7 @@
 
  I'm a Software Engineer based in Bangalore, India.<br>
 ⚙️ I daily use: HTML, CSS, Javascript, ReactJS, NextJS.<br>
-🌱 Learning all about Socket.io and Kubernetes.<br>
+🌱 Currently learning: Kubernetes and AWS services.<br>
 ⚡ I really enjoy making things which are easy to use, just like my [Work Assistant](https://work-assistant.vercel.app/).<br>
 💻 Love to develop interactive and artistically pleasing web pages.<br>
 
